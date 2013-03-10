@@ -1,0 +1,35 @@
+/*main.css*/
+
+body {
+	background-color: #d3d3d3;
+}
+
+.maincontent {
+	min-height: 35em !important ; 
+	background-color: #967e87;
+	border-right: solid 1px #404040;
+	padding: 20px;
+}
+
+.sidebar {
+	background-color: #96727F
+}
+
+.abc {
+	background-color: #96727F;
+	min-height: 10em;
+}
+
+.footer {
+	background-color: #7c7c7c;
+	height: 10em;
+}
+
+.hello {
+	font-size: 16px;
+	margin-bottom: 40px;
+}
+
+#copyright {
+	text-align: center;
+}
