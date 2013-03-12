@@ -14,31 +14,34 @@ h3,h4 {
 
 .maincontent {
 	min-height: 35em !important ;
-	background-color: #967e87;
-	border-right: solid 1px #404040;
+	background-color: #fff;
+	border-right: solid 1px #aaa;
 	padding: 20px;
 	border-top-left-radius: 5px;
 }
 
 .sidebar {
-	background-color: #96727F;
 	margin-top: 10px;
 }
 
 .abc {
-	background-color: #96727F;
+	background-color: #fbfbfb;
 	min-height: 10em;
-	border-top-right-radius: 5px;
-	border-top-left-radius: 5px;
 	text-align: justify;
 	clear: both;
-
+	border: 1px solid #aaa;
+	border-bottom: 0;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
 }
 
 .footer {
-	background-color: #7c7c7c;
+	background-color: #fbfbfb;
 	height: 10em;
-	border-top: solid 2px black;
+	margin-bottom: 2em;
+	border: solid 1px #aaa;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
 }
 
 .hello {
