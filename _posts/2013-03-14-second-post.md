@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Ipusm 2"
+category: blog
 
+title: "Ipusm 2"
 ---
 
 ##Ipsum 2
