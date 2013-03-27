@@ -1,6 +1,9 @@
 ---
 layout: post
-title: "Ipusm 1"
+category: blog
+
+title: "Ipsum 1"
+root: "../../"
 
 ---
 
